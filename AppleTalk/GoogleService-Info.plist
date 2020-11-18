@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>275891182587-o9g0i7q8v57jq5jep6fbkoj92jb0udva.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.275891182587-o9g0i7q8v57jq5jep6fbkoj92jb0udva</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBoeLUVrkQK-D3C9miMR-3tPHgLDLRNUJg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>275891182587</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hyunsookim.AppleTalk</string>
+	<key>PROJECT_ID</key>
+	<string>apple-talk-ios13</string>
+	<key>STORAGE_BUCKET</key>
+	<string>apple-talk-ios13.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:275891182587:ios:ffd0e0f36ea5c64d88c95e</string>
+	<key>DATABASE_URL</key>
+	<string>https://apple-talk-ios13.firebaseio.com</string>
+</dict>
+</plist>
